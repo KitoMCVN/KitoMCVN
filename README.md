@@ -1,6 +1,11 @@
 <br clear="both">
 
 <h1 align="left">🌾• Hi! I'm KitoMC</h1>
+<p align="center">"Cảnh nào cảnh chẳng đeo sầu</p>
+<p align="center">Người buồn cảnh có vui đâu bao giờ"</p>
+
+#
+
 <p align="left">🌥╎Ngôn ngữ đang cải thiện</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
