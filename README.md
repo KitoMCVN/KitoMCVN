@@ -29,12 +29,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
+
+#
+
 <div align="center">
-  <img height="200" src="https://64.media.tumblr.com/637b7f52a4bba9d95a8ebb9947e4db39/b38c9ee6ef2739ea-31/s540x810/7dfd5b790fa2da905a69ced75751b74f105a5f50.gif"  />
+  <img width="1000" src="https://64.media.tumblr.com/637b7f52a4bba9d95a8ebb9947e4db39/b38c9ee6ef2739ea-31/s540x810/7dfd5b790fa2da905a69ced75751b74f105a5f50.gif"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/KitoMCVN/KitoMCVN/output/snake.svg" alt="Snake animation" />
-
-###
