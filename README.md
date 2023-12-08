@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="left">🌾• Hi! I'm KitoMC</h1>
 <p align="center">"Cảnh nào cảnh chẳng đeo sầu</p>
 <p align="center">Người buồn cảnh có vui đâu bao giờ"</p>
