@@ -1,6 +1,6 @@
 <h1 align="left">🌾• Hi! I'm KitoMC</h1>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/874321270437728257?theme=dark&bg=3a5d69&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Toi%20thuong%20em%20lam.)](https://discord.com/users/915876843884777472)
+
 
 #
 
