@@ -1,6 +1,6 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-# Hi! I,m KitoMC
+# Hi! I,m KitoMC 🤔
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discordredirect.discordsafe.com/users/915876843884777472) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kitomcvn) [![TikTok](https://img.shields.io/badge/tiktok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@.kitomc) [![YouTube](https://img.shields.io/badge/youtube-CA4245.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@KitoMC)
 
 ### 🍃 &nbsp;Tech Stack
