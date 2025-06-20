@@ -5,8 +5,7 @@
 ```ts
 export const ICanDo = (): string => {
   const languages = 'HTML, CSS, JavaScript, TypeScript, Java, Python, Pascal';
-  const frameworks = 'NodeJS, ReactJS, NextJS, TailwindCSS, Framer Motion
-';
+  const frameworks = 'NodeJS, ReactJS, NextJS, TailwindCSS, Framer Motion';
   const databases = 'MongoDB, MySQL';
   const tools = 'Visual Studio Code, IntelliJ IDEA, Vite, Nodemon';
   const design = 'Photoshop, Aseprite, Figma';
