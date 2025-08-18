@@ -4,10 +4,10 @@
 ## 🤔 What can I do?
 ```ts
 export const ICanDo = (): string => {
-  const languages = 'HTML, CSS, JavaScript, TypeScript, Java, Python, Pascal';
+  const languages = 'HTML, CSS, JavaScript, TypeScript, Rust, Python, Pascal';
   const frameworks = 'NodeJS, ReactJS, NextJS, TailwindCSS, Framer Motion';
-  const databases = 'MongoDB, MySQL';
-  const tools = 'Visual Studio Code, IntelliJ IDEA, Vite, Nodemon';
+  const databases = 'MongoDB, MySQL, PostgresSQL';
+  const tools = 'Visual Studio Code, IntelliJ IDEA';
   const design = 'Photoshop, Aseprite, Figma';
   const systems = 'Windows, Android, Linux (Ubuntu, Arch)';
 
@@ -16,6 +16,7 @@ export const ICanDo = (): string => {
 ```
 ## 👋 The end?
 > Nơi tôi có EM là trong GIẤC MƠ <br>
+> Thứ GIẾT CHẾT chúng ta là KỶ NIỆM <br>
 > You are my ☀️, my 🌙 and all my ⭐'s
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
