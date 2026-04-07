@@ -1,15 +1,15 @@
 ## 👀 Who am I?
-💐 I'm **Kito 🍂**, born in **2009**, from **Can Tho City - Vietnam**! 🇻🇳<br>
+💐 I'm **Kito**, from **Can Tho City - Vietnam**! 🇻🇳<br>
 📚 I luv **Math** & **Physics**
 ## 🤔 What can I do?
 ```ts
 export const ICanDo = (): string => {
-  const languages = 'HTML, CSS, JavaScript, TypeScript, Rust, Python, Pascal';
+  const languages = 'JavaScript, TypeScript, Rust, Python, Pascal';
   const frameworks = 'NodeJS, ReactJS, NextJS, TailwindCSS, Framer Motion';
   const databases = 'MongoDB, MySQL, PostgresSQL';
   const tools = 'Visual Studio Code, IntelliJ IDEA';
   const design = 'Photoshop, Aseprite, Figma';
-  const systems = 'Windows, Android, Linux (Ubuntu, Arch)';
+  const systems = 'Windows, Linux (Ubuntu, Arch)';
 
   return [languages, frameworks, databases, tools, design, systems].join('\n');
 }
